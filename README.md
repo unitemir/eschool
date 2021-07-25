@@ -6,6 +6,7 @@ git clone https://github.com/unitemir/eschool.git
 ```
 cd eschool
 ```
+запускаем сервер командой:
 ```
 mvnw spring-boot:run
 ```
